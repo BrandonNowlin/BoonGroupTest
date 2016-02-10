@@ -1,0 +1,4 @@
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\SnapCrackle\bin\Debug\SnapCrackle.dll
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\SnapCrackle\bin\Debug\SnapCrackle.pdb
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\SnapCrackle\obj\Debug\SnapCrackle.dll
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\SnapCrackle\obj\Debug\SnapCrackle.pdb

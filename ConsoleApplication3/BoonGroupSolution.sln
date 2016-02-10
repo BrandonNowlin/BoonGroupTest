@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppUseSim", "ConsoleApplication3\AppUseSim.csproj", "{8A0278F7-984F-43C0-8407-75F8B73308D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "SnapCrackle\MyApp.csproj", "{ABEA859D-0F80-47DC-8C3E-EB449EE113DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A0278F7-984F-43C0-8407-75F8B73308D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0278F7-984F-43C0-8407-75F8B73308D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0278F7-984F-43C0-8407-75F8B73308D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0278F7-984F-43C0-8407-75F8B73308D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEA859D-0F80-47DC-8C3E-EB449EE113DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEA859D-0F80-47DC-8C3E-EB449EE113DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEA859D-0F80-47DC-8C3E-EB449EE113DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEA859D-0F80-47DC-8C3E-EB449EE113DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\SnapCrackle.dll
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\SnapCrackle.pdb
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\AppUseSim.csprojResolveAssemblyReference.cache
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\nurelic\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
